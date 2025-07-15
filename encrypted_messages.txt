@@ -1,0 +1,16 @@
+Mensaje Encriptado: Mi voto secreto es A1B2C3D4
+Codigo Primo: 19
+Mensaje Encriptado: Confirmacion de identidad X5Y6Z7W8
+Codigo Primo: 23
+Mensaje Encriptado: Mi voto secreto es A1B2C3D4
+Codigo Primo: 19
+Mensaje Encriptado: Confirmacion de identidad X5Y6Z7W8
+Codigo Primo: 23
+Mensaje Encriptado: Mi voto secreto es A1B2C3D4
+Codigo Primo: 19
+Mensaje Encriptado: Confirmacion de identidad X5Y6Z7W8
+Codigo Primo: 23
+Mensaje Encriptado: Mi voto secreto es A1B2C3D4
+Codigo Primo: 19
+Mensaje Encriptado: Confirmacion de identidad X5Y6Z7W8
+Codigo Primo: 23
